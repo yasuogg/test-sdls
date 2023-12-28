@@ -205,7 +205,7 @@ for (int i = 0; i < n - 1; i++) {
     }
 }
 
-
+int j;
 
 while(SDL_PollEvent(&event)){
      switch(event.type){
